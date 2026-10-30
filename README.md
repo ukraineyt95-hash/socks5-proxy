@@ -1,4 +1,4 @@
-💬 **Discord-сервер:** [https://discord.gg/DREyTmZ4D]
+**Discord-сервер:** [Ссылка](https://discord.gg/DREyTmZ4D)
 
 # socks5-proxy
 
